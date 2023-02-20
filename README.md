@@ -68,13 +68,13 @@ Clone project
 ```bash
 git clone https://github.com/paulinagonzalezc/hellorails
 
-cd tdd-project-ruby
+cd hellorails
 ```
 
 Run the program
 
 ```bash
-rspec
+rails s
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
